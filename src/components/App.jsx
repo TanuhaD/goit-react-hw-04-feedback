@@ -20,6 +20,7 @@ export const App = () => {
       case options[2]:
         setBad(bad + 1);
         break;
+      default:
     }
   };
 
